@@ -133,7 +133,7 @@ html,body{
     background-image: url('cseimg.jpg'); 
     background-size: cover;
     background-repeat: no-repeat;
-    width: 2000px;
+    width: auto;
     height: 750px
 }
 .cse p,h1,H3,a,li{
